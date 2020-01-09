@@ -1,0 +1,4 @@
+1 java install jdk, check version 
+2 eclipse download and check version oxygen or mars 
+3 add to eclipse in TESTNG file
+4 add to eclipse in chrome driver
